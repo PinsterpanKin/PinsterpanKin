@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Decorative header background" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=calculated+yolo;Building+Local+RAG+%26+Full-Stack+Apps;this+is+NGE!" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=calculated+yolo;this+is+NGE!" alt="Typing introduction" />
   </a>
 
   <p>
