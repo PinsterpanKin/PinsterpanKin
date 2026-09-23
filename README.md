@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PinsterpanKin/Local-RAG">Local Retrieval Augmented Generation Engine</a></h3>
+      <h3><a href="https://github.com/PinsterpanKin/LocalRAG-Engine">Local Retrieval Augmented Generation Engine</a></h3>
       <p>A private, local-first document question-answering system that retrieves relevant context and generates grounded responses without sending documents to a hosted model.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
