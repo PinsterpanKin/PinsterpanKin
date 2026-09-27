@@ -46,42 +46,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PinsterpanKin/LocalRAG-Engine">Local Retrieval Augmented Generation Engine</a></h3>
-      <p>A private, local-first document question-answering system that retrieves relevant context and generates grounded responses without sending documents to a hosted model.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white" alt="ChromaDB" />
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" alt="Ollama" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PinsterpanKin/CopiumPad">CopiumPad</a></h3>
-      <p>A multi-asset portfolio tracker and visualizer for turning market data into a clear, useful view of portfolio performance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Yahoo_Finance-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="Yahoo Finance API" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-## GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PinsterpanKin&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Francis's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinsterpanKin&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinsterpanKin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
 <div align="center">
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
