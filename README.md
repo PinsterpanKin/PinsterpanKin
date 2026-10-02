@@ -8,18 +8,21 @@
 > *“找寻真我的道路绝非坦途，但是答案却一直跟随着你——那些你觉得很重要却一直没有去做的事”*
 
 他被永远困在了夏天，被阳光晒透  \
-感受到世界越来越美，独自一人，却十分快活 \
+感受到世界越来越美，独自一人，却十分快活
 
 Born in Shenzhen, footprints scattered across Kunming, Hefei, Chongqing, Hong Kong, and Singapore. \
-Often found near the equatorial waters of Singapore, or lost between the shelves of Sisyphe bookstores in neon-lit cities.  \
-*Mild sips, borrowed light.* \
-A quiet pilgrimage through Xili and Luohu, riding the slow swell of waves toward the slopes of Pok Fu Lam \ 
+Often found near the equatorial waters of Singapore, or lost between the shelves of Sisyphe bookstores in neon-lit cities.
+
+*Mild sips, borrowed light.* 
+
+A quiet pilgrimage through Xili and Luohu, riding the slow swell of waves toward the slopes of Pok Fu Lam
+
 *Blossoms afloat, flowers adrift*
 
 > *"The path to one's true self is steep and rugged, but the answer trails closely behind——waiting in the very things you cherish deeply, yet keep putting off."*
 
 Bound forever to the warmth of summer, soaked through with sun; \
-finding the universe ever more breathtaking—alone, and profoundly at peace. \
+finding the universe ever more breathtaking—alone, and profoundly at peace.
 
 <div align="left">
   <p>
