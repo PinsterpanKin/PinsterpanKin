@@ -18,8 +18,3 @@
 - 🧠 Interested in **local AI**, retrieval-augmented generation, developer tools, and intelligent systems
 - 🛠️ Building practical products across the **full stack**, from data pipelines and APIs to polished interfaces
 - 🐧 Comfortable in Linux environments and always curious about the systems beneath the abstractions
-
-<div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
