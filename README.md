@@ -26,6 +26,6 @@ finding the universe ever more breathtaking—alone, and profoundly at peace.
 
 <div align="left">
   <p>
-    <a href="mailto:francisho212@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:francisho212@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
